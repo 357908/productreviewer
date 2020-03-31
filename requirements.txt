@@ -1,0 +1,6 @@
+flask==0.10.1
+Werkzeug==0.16.1
+pymongo==3.4.0
+flask-cors==3.0.2
+pymongo==3.4.0
+Werkzeug==0.16.1
